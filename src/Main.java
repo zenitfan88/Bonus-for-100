@@ -10,7 +10,7 @@ public class Main {
         }
         System.out.println("Количество бонусов - " + bonus + " рублей");
         int totalAmount = moneyAccaunt + depositAmount + bonus;
-        System.out.println("Итоговый счет - " + totalAmount + "рублей");
+        System.out.println("Итоговый счет - " + totalAmount + " рублей");
     }
 }
 
@@ -26,6 +26,6 @@ public class Main {
         }
         System.out.println("Количество бонусов - " + bonus + " рублей");
         int totalAmount = moneyAccaunt + depositAmount + bonus;
-        System.out.println("Итоговый счет - " + totalAmount + "рублей");
+        System.out.println("Итоговый счет - " + totalAmount + " рублей");
     }
 } */
